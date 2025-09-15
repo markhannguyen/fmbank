@@ -1,0 +1,6 @@
+instances:
+   - name: labk8s1
+     dns:
+       - labk8s1
+     ip:
+       - 172.16.1.61
